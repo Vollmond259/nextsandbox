@@ -8,7 +8,7 @@ function User({user}){
         <h2>hello User id {query.id} </h2>
         <h3>name of usr {user.name}</h3>
         <h2>mail user {user.email}</h2>
-        <h3>mail user {user.phone}</h3>
+    
         </>
     )
 }
