@@ -5,7 +5,7 @@ function User({user}){
     console.log(query)
     return(
         <>
-        <h3>hello User id {query.id} </h3>
+        <h2>hello User id {query.id} </h2>
         <h3>name of usr {user.name}</h3>
         <h2>mail user {user.email}</h2>
         </>
